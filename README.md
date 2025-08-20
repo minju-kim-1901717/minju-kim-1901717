@@ -1,6 +1,6 @@
 <div>
   <!--Header-->
-  Hi there 👋 
+  <h1>Hi there 👋 </h1>
 </div>
 
 <div>
