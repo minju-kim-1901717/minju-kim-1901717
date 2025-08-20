@@ -1,8 +1,6 @@
 <div>
   <!--Header-->
-  <h1>Hi there 👋 </h1>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=22B885&width=435&lines=Hi%2C+I'm+MINJU" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <div>
