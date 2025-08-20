@@ -19,8 +19,11 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
+  <!--JAVA-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA_FF7800">  <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <!--C-->
+  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
@@ -36,10 +39,6 @@
   ### Game Engine
   <!--유니티-->
   <img alt="Unity" src ="https://img.shields.io/badge/Unity-f0f0f0.svg?&style=for-the-badge&logo=Unity&logoColor=ffffff"/>
-  
-  ### ETC
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   ### Design Tools
   <!--포토샵-->
@@ -52,6 +51,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Premiere_Pro-purple">
   <!--에프터이펙트-->
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-After_Effects-skyblue">
+
+  ### ETC
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   <br/>
   <br/>
