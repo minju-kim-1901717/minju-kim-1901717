@@ -1,3 +1,7 @@
+<style>
+  div{text-align:center}
+</style>
+
 <div>
   <!--Header-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B+Im+Minju" alt="Typing SVG" /></a>
@@ -45,9 +49,10 @@
   
   ## 🤔 Portfolio
   <!--대학 프로젝트-->
-  <a href="https://eden05.github.io/hyw/pc.html" target="_blank"> <img src="https://eden05.github.io/hyw/img2/c00601.png">C반 은가비팀</a>
+  <a href="https://eden05.github.io/hyw/pc.html" target="_blank"> <img src="https://eden05.github.io/hyw/img2/c00601.png">대학 졸업 프로젝트 - C반 은가비팀</a>
   <!--유튜브-->
-  <a href="https://www.youtube.com/@Daylife_minju" target="_blank"> <img src="https://yt3.googleusercontent.com/nNpszqtcB0wBFXRl2p_ZUznUr8WtfsSFiLwMFU74MpcXZgb59osm44xW9yOr-VqWURHqlV9Fow=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">개인유튜브</a>
+  <a href="https://www.youtube.com/@Daylife_minju" target="_blank"> <img src="https://yt3.googleusercontent.com/nNpszqtcB0wBFXRl2p_ZUznUr8WtfsSFiLwMFU74MpcXZgb59osm44xW9yOr-VqWURHqlV9Fow=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">개인 유튜브</a>
+  <!--
   
 </div>
 
