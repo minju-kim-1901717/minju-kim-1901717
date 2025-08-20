@@ -1,6 +1,4 @@
-<style>
-  div{text-align:center}
-</style>
+
 
 <div>
   <!--Header-->
@@ -36,16 +34,24 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
   ### Skill
+  <!--프리미어프로-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Premiere_Pro-purple">
+  <!--포토샵-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Photoshop-blue">
+  <!--일러스트-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Illustrator-orange">
+
+
+
   
 
   
   ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
+
   
   ## 🤔 Portfolio
   <!--대학 프로젝트-->
