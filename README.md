@@ -43,11 +43,7 @@
 
   ### Game Engine
   <!--유니티-->
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
-
-
-
-  
+  <img alt="Unity" src ="https://img.shields.io/badge/Unity-ffffff.svg?&style=for-the-badge&logo=Unity&logoColor=ffffff"/>
 
   
   ### ETC
