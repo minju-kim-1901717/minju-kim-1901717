@@ -45,7 +45,7 @@
   
   ## 🤔 Portfolio
   <!--대학 프로젝트-->
-  <a href="<https://eden05.github.io/hyw/pc.html>" target="_blank"> 대학 졸업 프로젝트 </a>
+  <a href="https://eden05.github.io/hyw/pc.html" target="_blank"> <img src="https://eden05.github.io/hyw/img2/c00601.png"></a>
 </div>
 
 <!--
