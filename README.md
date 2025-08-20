@@ -43,11 +43,9 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ## 🤔 Portfolio
+  <!--대학 프로젝트-->
+  <a href="<https://eden05.github.io/hyw/pc.html>" target="_blank"> 대학 졸업 프로젝트 </a>
 </div>
 
 <!--
