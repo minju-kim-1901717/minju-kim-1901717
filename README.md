@@ -33,22 +33,26 @@
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
+  ### Game Engine
+  <!--유니티-->
+  <img alt="Unity" src ="https://img.shields.io/badge/Unity-f0f0f0.svg?&style=for-the-badge&logo=Unity&logoColor=ffffff"/>
+  
+  ### ETC
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
   ### Design Tools
-  <!--프리미어프로-->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Premiere_Pro-purple">
   <!--포토샵-->
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Photoshop-blue">
   <!--일러스트-->
   <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Illustrator-orange">
 
-  ### Game Engine
-  <!--유니티-->
-  <img alt="Unity" src ="https://img.shields.io/badge/Unity-f0f0f0.svg?&style=for-the-badge&logo=Unity&logoColor=ffffff"/>
+  ### Video & Editing Tools
+  <!--프리미어프로-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Premiere_Pro-purple">
+  <!--에프터이펙트-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Adobe-After_Effects-skyblue">
 
-  
-  ### ETC
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
   <br/>
 
