@@ -26,7 +26,7 @@
   <!--C-->
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <!--C++-->
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
